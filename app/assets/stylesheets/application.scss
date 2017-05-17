@@ -13,3 +13,13 @@
 @import "layout/index";
 @import "components/index";
 @import "pages/index";
+
+body {
+  background-color: #FAFAFA;
+}
+
+.container {
+  width: 700px;
+  background-color: white;
+  margin: 20px auto;
+}
